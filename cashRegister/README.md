@@ -1,5 +1,5 @@
 # JavaScript Algorithms and Data Structures
-This project was made for completing freeCodeCamp JavaScript Algorithms and Data Structures Certification. It was made using only Javascript.
+This project was made to complete freeCodeCamp JavaScript Algorithms and Data Structures Certification. It was made using only Javascript.
 
 ## Statement
 Design a cash register drawer function }}``checkCashRegister()`` that accepts purchase price as the first argument (``price``), payment as the second argument (``cash``), and cash-in-drawer (``cid``) as the third argument.
